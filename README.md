@@ -3,7 +3,7 @@
 Note: I’m sorry, but my native language is spanish. From now on I will write in spanish.
 
 El codigo hace lo siguiente:
-1. Se intalan los paquetes que se utilizan si es necesario.
+1. Se intalan los paquetes que se utilizan si es necesario. <br>
 2. Se cargan los nombres de las actividades y se cargan los nombres de las columnas, para "activity_labels" y "features". Se extraen las medias y desviaciones stándar.
 3. se cargan y procesan "X_test", "y_test" , "subject_test". Se extraen las medias y desviaciones estánadar.
 4. Se enlaza la data "subject_test", "pruebaY" y "PruebaX". se nombra "dataPrueba"
